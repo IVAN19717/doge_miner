@@ -1,4 +1,5 @@
 # Dogecoin miner
+![GITHUB_Release](https://img.shields.io/badge/release-v0.1-blue) ![GITHUB_STARS](https://img.shields.io/github/stars/hyt-allen-xu/miner_doge) ![GITHUB_ISSUES](	https://img.shields.io/github/issues/hyt-allen-xu/miner_doge)
 
 ## Intro
 
