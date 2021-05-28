@@ -1,1 +1,3 @@
-# A small miner script for Dogecoin
+# A small script to mine Dogecoin
+
+## Usage
