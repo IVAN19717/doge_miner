@@ -1,3 +1,3 @@
-# A small script to mine Dogecoin
+# A script to mine Dogecoin using CPU
 
 ## Usage
