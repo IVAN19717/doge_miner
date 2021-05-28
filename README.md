@@ -15,3 +15,9 @@ Suitable For:
 First, wget the script into your linux computer:
 
 ```wget https://raw.githubusercontent.com/hyt-allen-xu/miner_doge/master/miner.sh```
+
+Then, use vim to edit the file:
+
+```vim miner.sh```
+
+
