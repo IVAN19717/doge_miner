@@ -43,3 +43,9 @@ Support Centos 7 as fast as possible
 ## Example
 
 See example.sh
+
+## FAQS
+
+1.What app are you using in this script?
+
+We use 
