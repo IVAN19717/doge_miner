@@ -4,17 +4,24 @@
 
 A script to mine Dogecoin using CPU, write in linux script
 
-Suitable For:
+Suitable For The Following System(s):
 
 - `Ubuntu 16.04+`
 
-- `Debian 7+`
+- `Debian 10+`
+
+Not Suitable For:
+
+- `Centos 7+`
 
 ## Usage
 
 First, copy the script into your linux computer:
 
-```wget https://raw.githubusercontent.com/hyt-allen-xu/miner_doge/master/miner.sh```
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/hyt-allen-xu/miner_doge/master/miner.sh 
+chmod +x miner.sh
+```
 
 Then, use vim to edit the file:
 
@@ -26,3 +33,10 @@ Finally, Run the script:
 
 ```./miner.sh```
 
+## Things to do:
+
+Support Centos 7 as fast as possible
+
+## Example
+
+See example.sh
