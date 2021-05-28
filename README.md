@@ -12,7 +12,7 @@ Suitable For:
 
 ## Usage
 
-First, wget the script into your linux computer:
+First, copy the script into your linux computer:
 
 ```wget https://raw.githubusercontent.com/hyt-allen-xu/miner_doge/master/miner.sh```
 
