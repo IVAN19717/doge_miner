@@ -1,1 +1,1 @@
-# miner_doge
+# A small miner script for Dogecoin
