@@ -20,4 +20,5 @@ Then, use vim to edit the file:
 
 ```vim miner.sh```
 
+Replace YOUR_ADDRESS and YOUR_WORKER_NAME into your doge address (which can be got in dogecoin-core from dogecoin.com) and workername
 
