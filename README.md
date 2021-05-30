@@ -3,7 +3,7 @@
 
 ## Intro
 
-A script to mine Dogecoin using CPU, write in linux script
+A script to mine Dogecoin using CPU, write in linux script.
 
 Suitable For The Following System(s):
 
@@ -48,4 +48,4 @@ See example.sh
 
 1.What app are you using in this script?
 
-We use 
+We use xmrig as our main mining app.
