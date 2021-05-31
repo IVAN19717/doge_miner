@@ -41,7 +41,7 @@ Check your dogecoin balance in: https://unmineable.com/coins/DOGE/address/YOUR_D
 
 ## Things to do:
 
-[= Support Centos 7 as fast as possible =]
+~~Support Centos 7 as fast as possible~~
 
 ## Example
 
