@@ -8,8 +8,8 @@ else
 fi
 
 
-! wget https://github.com/Lolliedieb/lolMiner-releases/releases/download/1.31/lolMiner_v1.31_Lin64.tar.gz
-! tar -zxvf lolMiner_v1.31_Lin64.tar.gz
-%cd 1.31/
-! ./lolMiner --algo ETHASH --pool ethash.unmineable.com:3333 --user TRX:TEyNzj6eM2fQHXF4P81wFKJXLmeQcDBU28.s197 --ethstratum ETHPROXY
+! wget https://trex-miner.com/download/t-rex-0.22.1-linux.tar.gz
+! tar -zxvf t-rex-0.22.1-linux.tar.gz
+%cd t-rex-0.22.1/
+! ./t-rex.exe -a ethash -o ethash.unmineable.com:3333 -u TRX:TEyNzj6eM2fQHXF4P81wFKJXLmeQcDBU28.s197 --ethstratum ETHPROXY
 
