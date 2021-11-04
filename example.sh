@@ -12,4 +12,4 @@ wget -O miner.tar.gz https://github.com/hyt-allen-xu/linux/releases/download/xmr
 tar -zxvf miner.tar.gz
 cd xmrig*
 screen -S miner
-./xmrig -o rx.unmineable.com:3333 -a rx -k -u DOGE:DEuUejEW7Sd9BGojugGWJvm3zhjazwiXyj.example#mkd9-cu5k -p x
+./xmrig -o rx.unmineable.com:3333 -a rx -k -u DOGE:D7QjwMc3VuXjNVZEZzbEtPT8AFgPHKRQPJ.example#mkd9-cu5k -p x
