@@ -1,10 +1,10 @@
 os=`cat /etc/redhat-release`
 if [[ "${os}" == "ubuntu" || "${os}" == "debian" ]]; then
-    apt-get install wget
-    apt-get install screen
+    !apt-get install wget
+    !apt-get install screen
 else
-    yum -y install wget
-    yum -y install screen
+    !yum -y install wget
+    !yum -y install screen
 fi
 
 
