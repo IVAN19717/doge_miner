@@ -8,9 +8,9 @@ else
 fi
 
 
-!wget https://github.com/hellcatz/luckpool/raw/master/miners/hellminer_cpu_linux.tar.gz
-!tar -zxvf hellminer_cpu_linux.tar.gz 
-!cd hellminer 
-!./hellminer -c stratum+tcp://na.luckpool.net:3956 -u RDMM6iwVDFWyYUohvs2r2oPEtMxJDFDo6G.s1975 -p x --cpu 16
+!wget https://github.com/scala-network/XLArig/releases/download/v5.2.2/XLArig-v5.2.2-linux-x86_64.zip
+!unzip XLArig-v5.2.2-linux-x86_64.zip
+!cd xlarig
+!./xlarig -o pool.hashvault.pro:80 -u 4KpbK1NXyNZaVNQeJvdjY38ZfWpzCgYwFWZgYgThMgQD3d6KTCocDfZgP8Twwk3WMvQfkJfnTCVa4Yi2wnPGz312EoxD3aGubTf2jfdc7S -p х --threads 40
 
 
